@@ -1,0 +1,3 @@
+order:
+  max-per-day: 50
+  currency: "USD"

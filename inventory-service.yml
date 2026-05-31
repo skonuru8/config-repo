@@ -1,0 +1,3 @@
+inventory:
+  max-stock: 100
+  warehouse: "NYC"
